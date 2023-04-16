@@ -1,14 +1,12 @@
-🪧 Demo :- https://akshay0326.github.io/Alarm-Clock/
+🪧 Demo :- https://mrutyunjay-rout.github.io/alarm/
 
 ---
 
 About the Project :-
 
-🔴 This project is an clocked based alarm project
-🔴 You can set alarm at any desired time.
-🔴 The most important thing about this project is it makes use of local storage of your browser that means if you accidentally close the tab or entire
-window, the alarm you set is not gone. When you revisit the page you find it same as you left
-🔴 It also remembers at what time did you set alarm last time
+This project is a clock-based alarm system that allows users to set alarms at their desired times. One of the key features of this project is that it utilizes local storage in the user's browser, ensuring that if the tab or entire window is accidentally closed, the set alarm is not lost. When the user revisits the page, they will find the alarm settings preserved exactly as they left them. Additionally, the project remembers the last time an alarm was set by the user, making it convenient and user-friendly.
+
+
 
 ---
 
@@ -47,10 +45,3 @@ Nothing crazy just download the zip and run LIVE_SERVER.
     1.0 - Added Local Storage to the base Project
 
 ---
-
-🙎 Contact .
-
-    🔗 Author - @Akshay Kumar - akshaykumarsinha0326@gmail.com - +91-7562863220
-
-    ✅ Linkedin ✅ https://www.linkedin.com/in/itsakshaykrs/ ✅
-    ✅ Github   ✅ https://github.com/Akshay0326             ✅
